@@ -54,8 +54,8 @@
 
 ## 기술 스택
 
-* **프레임워크:** Flutter
-* **UI:** Dart, Flutter
+* **프레임워크:** Android Studio
+* **UI:** Dart
 * **데이터베이스:** Firebase Firestore
 * **인증:** Firebase Authentication (Email, Google Sign-In), Kakao SDK
 * **데이터 소스:** CSV (traditional\_liquor\_df\_final.csv)
