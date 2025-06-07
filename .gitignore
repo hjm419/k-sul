@@ -1,0 +1,18 @@
+# Flutter/Dart generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+web/
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+*.log
+
+# Secret files
+android/key.properties
+ios/Runner/GoogleService-Info.plist
