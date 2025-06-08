@@ -70,7 +70,7 @@
 
 ## 시연 영상
 
-영상 링크: https://
+영상 링크: https://www.youtube.com/watch?v=4mTtgztSkS8
 
 ## 기술 스택
 
